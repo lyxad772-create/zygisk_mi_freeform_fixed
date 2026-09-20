@@ -1,4 +1,5 @@
-项目基于https://github.com/sunshine0523/Mi-FreeForm和https://github.com/DtHnAme/mi-Freeform-tmp
+项目基于https://github.com/sunshine0523/Mi-FreeForm
+和https://github.com/DtHnAme/mi-Freeform-tmp
 
 vibe coding修复了2个bug
 一：将米窗设置为默认数字助理应用唤出后，在添加快捷应用界面无法正常显示，显示为一个透明窗口
